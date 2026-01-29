@@ -3,4 +3,4 @@ Repository of Computer Program developed in Python for our subject ITCS103 - Fir
 
 #HANDS ON
 
-[FELICES_HO1.py]
+[FELICES_HO1.py](https://github.com/clarkjemsonfelices/ITCS103-PROGRAMMING-PYTHON/blob/main/FELICES_HO1.py) Hands On #1 - Word Length and Average Comparison
